@@ -12,4 +12,6 @@ O site apresenta notícias da cidade, categorias e estrutura básica de um porta
 - Trabalhar estilização básica e layout com CSS  
 - Simular um site real de notícias locais
 
- 
+## 📸 Pré-visualização
+
+![image alt](https://github.com/hevertonsilva-dev/Projeto-Noticias-Cidade/blob/3114440bdf91e79c4440f093a2a60e35c2346276/Noticias-cidade.png)
