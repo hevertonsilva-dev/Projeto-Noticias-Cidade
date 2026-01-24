@@ -15,3 +15,18 @@ O site apresenta notícias da cidade, categorias e estrutura básica de um porta
 ## 📸 Pré-visualização
 
 ![image alt](https://github.com/hevertonsilva-dev/Projeto-Noticias-Cidade/blob/3114440bdf91e79c4440f093a2a60e35c2346276/Noticias-cidade.png)
+
+## 📚 Aprendizados
+- Estrutura básica de uma página HTML
+- Uso de classes, ids e estilização com CSS
+- Organização simples de arquivos
+
+## 📚 Observações
+Este projeto foi desenvolvido durante estudos de HTML e CSS,  
+com fins exclusivamente educacionais e de aprendizado.  
+
+## 👨‍💻 Autor
+
+Desenvolvido por Heverton De Oliveira SIlva 
+📧 Contato: vetin4826@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/hevertonosilva/
