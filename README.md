@@ -28,5 +28,5 @@ com fins exclusivamente educacionais e de aprendizado.
 ## 👨‍💻 Autor
 
 Desenvolvido por Heverton De Oliveira SIlva 
-📧 Contato: vetin4826@gmail.com 
+📧 Contato: heverton.silva.dev@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/hevertonosilva/
